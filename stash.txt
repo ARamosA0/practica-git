@@ -1,1 +1,3 @@
 stash 1
+
+cambios durante el stash 2
